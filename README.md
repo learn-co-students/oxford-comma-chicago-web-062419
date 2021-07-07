@@ -1,4 +1,4 @@
-# Oxford Comma List Formatter
+strings# Oxford Comma List Formatter
 
 ## Objectives
 
@@ -12,7 +12,7 @@ In Ruby, there are a few methods available to us for converting data types. For 
 
 #### String to Array
 
-The `.split` method will convert a string into an array. The `.split` method takes an argument of the character in the string on which you want to split it. For example, if we have a string that contains a comma-separated list of items: 
+The `.split` method will convert a string into an array. The `.split` method takes an argumlea``ent of the character in the string on which you want to split it. For example, if we have a string that contains a comma-separated list of items: 
 
 `"hippo,giraffe,monkey,horse"`
 
